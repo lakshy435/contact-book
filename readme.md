@@ -1,6 +1,6 @@
 #  Simple Contact Book Application (College Project Submission)
 
-A basic command-line interface (CLI) application developed in **Python** to manage personal or academic contacts. This project demonstrates fundamental programming concepts, modular design, and file handling using the JSON format for data persistence.
+A basic command-line interface (CLI) application developed in **Python** to manage personal or academic contacts. This project demonstrates fundamental programming concepts, modular design, and file handling using the JSON format for data persistence. 
 
 ---
 
