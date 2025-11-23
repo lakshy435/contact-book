@@ -1,10 +1,10 @@
-# 📞 Simple Contact Book Application (College Project Submission)
+#  Simple Contact Book Application (College Project Submission)
 
 A basic command-line interface (CLI) application developed in **Python** to manage personal or academic contacts. This project demonstrates fundamental programming concepts, modular design, and file handling using the JSON format for data persistence.
 
 ---
 
-## 🎯 Project Goals and Objectives
+##  Project Goals and Objectives
 
 This project aims to address the real-world need for simple, digital contact management and serve as a practical application of course concepts.
 
@@ -19,7 +19,7 @@ The need for a quick and reliable way to store, retrieve, and manage contact inf
 
 ---
 
-## 🛠️ Application Details
+##  Application Details
 
 ### Prerequisites
 * **Python 3.x**
@@ -49,7 +49,7 @@ The need for a quick and reliable way to store, retrieve, and manage contact inf
 
 ---
 
-## ⚙️ Structured Development Process
+##  Structured Development Process
 
 ### 1. Problem Definition
 To create a simple, local tool for managing a contact list via a command-line interface.
@@ -81,7 +81,7 @@ The solution is implemented in Python, utilizing standard input/output for the C
 
 ---
 
-## 📁 Repository Structure (Submission Compliance)
+##  Repository Structure (Submission Compliance)
 
 This repository follows the required submission format for automated evaluation.
 
@@ -92,7 +92,7 @@ This repository follows the required submission format for automated evaluation.
 | `/screenshots` | Directory containing all application screenshots. | **Required** |
 | `contacts.json` | The data file (created automatically upon first run). | Runtime File |
 
-**🚨 IMPORTANT SUBMISSION NOTES:**
+** IMPORTANT SUBMISSION NOTES:**
 1.  **Repository Status:** The repository is **PUBLIC** (or VITyarthi has been added as a collaborator if private).
 2.  **Evaluation:** The setup strictly adheres to all guidelines to ensure successful **automated evaluation**.
 3.  **Academic Integrity:** This project is **100% self-generated code**. All work is original and compliant with the anti-plagiarism and AI-generated content detection rules.
